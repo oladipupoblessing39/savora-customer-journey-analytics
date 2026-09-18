@@ -6,11 +6,11 @@
 
 Savora is a savings and investment platform where customers progress through a journey from sign up and onboarding to funding their accounts and ultimately making an investment.
 
-The business challenge was to understand why many customers who had successfully funded their accounts were not progressing to investment. The analysis investigated the customer journey to identify where conversion was breaking down, when customers were most likely to invest, and where Savora could intervene.
+The business challenge was to understand why many customers were not progressing to investment. The analysis investigated the customer journey to identify where conversion was breaking down, when customers were most likely to invest, and where Savora could intervene.
 
 ### Business Question
 
-How can Savora convert more funded customers into investors?
+How can Savora convert more customers into investors?
 
 ### Analytical Approach
 
@@ -97,4 +97,4 @@ The current dataset also does not provide enough evidence to quantify financial 
 
 [View Dashboard]
 
-[View Full Report](https://drive.google.com/file/d/1X8v6FdrbzEJVe37ueUn9rAjQNHJewnsf/view?usp=drivesdk)
+[View Full Report](https://drive.google.com/file/d/1NSEvrAb0Jm7aktXndKpEuY8ISf9PDJRc/view?usp=drivesdk)
